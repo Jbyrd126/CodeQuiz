@@ -1,0 +1,42 @@
+html,
+body,
+.container {
+    height: 100%;
+}
+
+
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #FFFFFF !important;
+}
+
+.border-top {
+    border-top: 1px solid #FFFFFF !important;
+}
+
+a {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px red, 0 0 1em green, 0 0 0.2em green;
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+
+}
+
+#game-clock-container {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px red, 0 0 1em green, 0 0 0.2em green;
+    font-family: 'Source Code Pro', sans-serif;
+
+}
